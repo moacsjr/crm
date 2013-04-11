@@ -1,0 +1,14 @@
+$(document).ready(function () {$("#link-1826482102").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1_thumb.jpg\/1"});
+return false;});
+$("#link-1618506555").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1_capa_capa.jpg\/1"});
+return false;});
+$("#link-298451471").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-1576989.jpg\/1"});
+return false;});
+$("#link-1600934925").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1_capa.jpg\/1"});
+return false;});
+$("#link-1734947608").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-192678843.jpg\/1"});
+return false;});
+$("#link-1582769456").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-1065410396.jpg\/1"});
+return false;});
+$("#link-249769012").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-192372614.jpg\/1"});
+return false;});});

@@ -1,0 +1,2 @@
+$(document).ready(function () {$("#ImovelEstado").bind("change", function (event) {$.ajax({async:true, complete:function (XMLHttpRequest, textStatus) { $('#ImovelCidade').html('');}, url:"\/imobiliariaverissimo\/imobiliariaverissimo\/cidades.json"});
+return false;});});

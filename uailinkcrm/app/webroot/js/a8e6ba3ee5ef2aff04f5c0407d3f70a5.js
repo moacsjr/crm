@@ -1,0 +1,10 @@
+$(document).ready(function () {$("#link-302025193").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-1159668392.jpg"});
+return false;});
+$("#link-80901385").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-1397367592.jpg"});
+return false;});
+$("#link-1690624305").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-97951742.jpg"});
+return false;});
+$("#link-1134549772").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-333878721.jpg"});
+return false;});
+$("#link-246155580").bind("click", function (event) {$.ajax({success:function (data, textStatus) {alert("Foto de capa configurada com sucesso!");}, url:"\/imobiliariaverissimo\/imagens\/setCapa\/imovel1-329691655.jpg"});
+return false;});});
